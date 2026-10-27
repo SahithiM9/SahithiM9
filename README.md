@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SahithiM9
 - 👀 I’m interested in being a pro coder
-- 🌱 I’m currently learning python
-- 📫 How to reach me @mandavasahithi7@gmail.com
+- 📫 How to reach me @mandavasahithi7@gmail.com or sahithim979@gmail.com
 
 <!---
 SahithiM9/SahithiM9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
